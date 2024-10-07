@@ -110,7 +110,7 @@ header .container .link ul li:hover a {
 }
 .landing {
   height: calc(100vh - 40px);
-  background-image: url(/Photo/landing.jpg);
+  background-image: url(../Photo/landing.jpg);
   background-size: cover;
 }
 .landing .container {
